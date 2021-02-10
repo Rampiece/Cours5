@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Cours5.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\ploui\Documents\GitHub\Cours5\.idea\.idea.Cours5\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
